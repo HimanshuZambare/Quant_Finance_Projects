@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/MarketDataFeedHandler.dir/main.cpp.o CMakeFiles/MarketDataFeedHandler.dir/Packet.cpp.o CMakeFiles/MarketDataFeedHandler.dir/CSVDataSource.cpp.o CMakeFiles/MarketDataFeedHandler.dir/FeedHandler.cpp.o -o MarketDataFeedHandler
